@@ -1,20 +1,18 @@
-# im-a-teapot
-PROGI - 2023/24 - I'm a teapot
+#Nestali Ljubimci
+Dobrodošli u repozitorij projekta "Nestali Ljubimci"! Ovaj projekt je nastao kao rezultat suradnje studenata na kolegiju Programsko Inženjerstvo. 
+Cilj nam je bio stvoriti sustav za praćenje nestalih ljubimaca kako bismo pomogli njihovim vlasnicima da ih pronađu.
 
-### ANDROID APP
-- poveznica za preuzimanje aplikacije: `https://www.amazon.com/gp/product/B0CLKBFN9N`
-- napomena: u trenutku predaje Amazon još nije prihvatio novu verziju aplikacije, pa se u slučaju problema ista može downloadati iz foldera android-app/app/release
+##Timovi
+Projektni tim je bio organiziran u tri glavna tima:
 
-### WEB SERVER
-- poveznica na Swagger dokumentaciju backenda: `https://lost-pets-progi-backend-2023-2024.onrender.com/docs`
-- napomena: free Render deploymenti se ugase nakon neaktivnosti, pa će biti potrebno neko vrijeme za učitavanje
+###Backend Tim
+Tehnologija: FastAPI
+Odgovornosti: Razvoj serverne logike, API-ja, i integracija s bazom podataka.
 
-##
-### LOKALNO POKRETANJE BACKENDA
-- lokalno napraviti bazu `lost_pets`
-- u folderu `backend-service` napraviti virtual environment `venv`
-- u folderu `backend-service` pokrenuti:
-```commandline
-pip install -r requirements.txt
-uvicorn service.main:app --reload
-```
+###Frontend Tim
+Tehnologija: Kotlin
+Odgovornosti: Razvoj korisničkog sučelja, interakcija s backendom, i stvaranje intuitivnog korisničkog iskustva.
+
+###Dokumentacija Tim
+Tehnologije: Latex i Astah
+Odgovornosti: Dokumentiranje arhitekture, API-ja, postavljanje uputa za pokretanje projekta, i opisivanje korištenih tehnologija.
