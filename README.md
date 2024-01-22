@@ -1,18 +1,23 @@
-# Nestali Ljubimci
-Dobrodošli u repozitorij projekta "Nestali Ljubimci"! Ovaj projekt je nastao kao rezultat suradnje studenata na kolegiju Programsko Inženjerstvo. 
-Cilj nam je bio stvoriti sustav za praćenje nestalih ljubimaca kako bismo pomogli njihovim vlasnicima da ih pronađu.
+# Lost Pets
+Welcome to the "Lost Pets" project repository! This project emerged from the collaboration of students in the Software Engineering course. <br>
+Our goal was to create a system for tracking lost pets to assist their owners in finding them.
 
-## Timovi
-Projektni tim je bio organiziran u tri glavna tima:
+## Teams
+The project team was organized into three main teams:
 
-### Backend Tim
-Tehnologija: FastAPI <br>
-Odgovornosti: Razvoj serverne logike, API-ja, i integracija s bazom podataka.
+### Backend Team
+Technology: FastAPI <br>
+Responsibilities: Development of server logic, API, and integration with the database.
 
-### Frontend Tim
-Tehnologija: Kotlin <br>
-Odgovornosti: Razvoj korisničkog sučelja, interakcija s backendom, i stvaranje intuitivnog korisničkog iskustva.
+### Frontend Team
+Technology: Kotlin <br>
+Responsibilities: Development of the user interface, interaction with the backend, and creating an intuitive user experience.
 
-### Dokumentacija Tim
-Tehnologije: Latex i Astah <br>
-Odgovornosti: Dokumentiranje arhitekture, API-ja, postavljanje uputa za pokretanje projekta, i opisivanje korištenih tehnologija.
+### Documentation Team
+Technologies: LaTeX and Astah <br>
+Responsibilities: Documenting the architecture, API, providing instructions for running the project, and describing the technologies used.
+
+
+
+
+
